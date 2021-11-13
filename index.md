@@ -10,26 +10,28 @@ This project is long-term but my hope is to strengthen ICT awareness amongst stu
 
 Tutorials are quickly outdated, so my approach is to teach fundamentals of ICT which they can apply to the changing nature of technology. 
 
-### Markdown
+### Educating code using Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Using Markdown is an excellent way to get students into coding. You can use markdowns to show iterations, declarations, loops, functions, classes in a variety of programming languages. Whilst the code cannot be debugged, students see code as if it is in an IDE (Independent Dev. Environment) and when learning to program using VSCode, scratch, adruino can better implement code they learnt from your site. See below an example markdown of a HTML page. 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+<HTML>
+  <Head>
+    <Title></Title>
+  </Head>
+  <Body>
+    <h1>Welcome to My Site!</h1>
+    
+    <style>
+      .h1{
+          font-color: red;
+          font-size: 80px;
+          }
+    </style>
+  </Body>
+  </HTML>
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
