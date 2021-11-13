@@ -10,6 +10,14 @@ This project is long-term but my hope is to strengthen ICT awareness amongst stu
 
 Tutorials are quickly outdated, so my approach is to teach fundamentals of ICT which they can apply to the changing nature of technology. 
 
+### History of me and my philosophy teaching ICT
+
+I hold a Diploma of IT Systems Administration (Distinction) in 2012, and worked as a sole-trader in ICT helping small businesses and home users diagnose and resolve technical issues. 
+
+I then moved onto doing a Bachelor's of Law at Western Sydney University, completing the program in 2019 and being admitted as an Australian Lawyer in 2020. I worked for a few months in the law, however I then moved onto teaching and I currently enjoy working in teaching. Getting students learn to use ICT effectively has given me a great satisfaction knowing that I am preparing them for the new Industrial Revolution. We are living in a new world from the old world, life will never be the same pre-covid. I also amended programs of teaching to cater for the new world, ensuring students learn about AI, IoT and the new way domains are working with TLDs (Top Level Domains).
+
+If you noticed anything unique about my website from other students, is that the domain is a .tech TLD. 
+
 ### Educating code using Markdown
 
 Using Markdown is an excellent way to get students into coding. You can use markdowns to show iterations, declarations, loops, functions, classes in a variety of programming languages. Whilst the code cannot be debugged, students see code as if it is in an IDE (Independent Dev. Environment) and when learning to program using VSCode, scratch, adruino can better implement code they learnt from your site. See below an example markdown of a HTML page. 
