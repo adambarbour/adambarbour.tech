@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my ePortfolio
 
-You can use the [editor on GitHub](https://github.com/adambarbour/adambarbour.tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Mr. Adam Barbour and I am currently an educator @ Salamah College NSW. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I also am currently studying a Masters of Education at Charles Sturt University and have been enjoying the area of teaching. My area of teaching is currently Technology (Year 7, 8) and Information Software Technology (Year 9 and 10). 
+
+I am also currently undertaking projects in ICT which are underdevelopment. One of my new projects is https://wiki.informationsoftware.tech/ which aims to complement my programs for Information Software Technology. 
+
+This project is long-term but my hope is to strengthen ICT awareness amongst students and teach them relevant knowledge within the constantly-evolving industry of digital technologies. 
+
+Tutorials are quickly outdated, so my approach is to teach fundamentals of ICT which they can apply to the changing nature of technology. 
 
 ### Markdown
 
